@@ -19,7 +19,12 @@ We used the simple neural network model.
 
 ## Structure
 
-<img src="images/DoS-IDS.png" width=300px/>
+<img src="images/IDS.png" width=300px/>
+
+
+## Report
+
+https://github.com/jiniljeil/DoS-Intrusion-Detection-System/blob/master/IDS%20Final%20Report.pdf
 
 ## IDS Test
 

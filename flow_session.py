@@ -23,7 +23,7 @@ GARBAGE_COLLECT_PACKETS = 100
 # localhost_save_option = tf.saved_model.SaveOptions(experimental_io_device="/job:localhost")
 
 # model = load_model('hello.h5')
-model = load_model('DoS-IDS.h5')
+model = load_model('IDS_model.h5')
 
 logger = logging.getLogger('simple_example')
 logger.setLevel(logging.DEBUG)
