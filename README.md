@@ -17,7 +17,7 @@ cicflowmeter -i [wifi-name] -c flows.csv
 
 ## Structure
 
-<img src="images/IDS.png" width=200px/>
+<img src="images/IDS.png" height=200px/>
 
 
 ## Report
