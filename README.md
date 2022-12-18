@@ -28,3 +28,8 @@ https://github.com/jiniljeil/DoS-Intrusion-Detection-System/blob/master/IDS%20Fi
 
 https://youtu.be/wBjDQ6sChoc
 
+## References
+1. https://github.com/datthinh1801/cicflowmeter   
+2. https://www.unb.ca/cic/research/applications.html#CICFlowMeter   
+
+
